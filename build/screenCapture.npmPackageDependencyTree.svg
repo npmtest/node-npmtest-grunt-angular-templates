@@ -1,0 +1,57 @@
+<svg height="862" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="862" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">5 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ grunt-angular-templates@1.1.0 </tspan>
+<tspan x="10" y="90">  └─┬ html-minifier@2.1.7 </tspan>
+<tspan x="10" y="106">    ├─┬ change-case@3.0.1 </tspan>
+<tspan x="10" y="122">    │ ├── camel-case@3.0.0 </tspan>
+<tspan x="10" y="138">    │ ├── constant-case@2.0.0 </tspan>
+<tspan x="10" y="154">    │ ├── dot-case@2.1.1 </tspan>
+<tspan x="10" y="170">    │ ├── header-case@1.0.1 </tspan>
+<tspan x="10" y="186">    │ ├── is-lower-case@1.1.3 </tspan>
+<tspan x="10" y="202">    │ ├── is-upper-case@1.1.2 </tspan>
+<tspan x="10" y="218">    │ ├── lower-case@1.1.4 </tspan>
+<tspan x="10" y="234">    │ ├── lower-case-first@1.0.2 </tspan>
+<tspan x="10" y="250">    │ ├── no-case@2.3.1 </tspan>
+<tspan x="10" y="266">    │ ├── param-case@2.1.1 </tspan>
+<tspan x="10" y="282">    │ ├── pascal-case@2.0.1 </tspan>
+<tspan x="10" y="298">    │ ├── path-case@2.1.1 </tspan>
+<tspan x="10" y="314">    │ ├── sentence-case@2.1.1 </tspan>
+<tspan x="10" y="330">    │ ├── snake-case@2.1.0 </tspan>
+<tspan x="10" y="346">    │ ├── swap-case@1.1.2 </tspan>
+<tspan x="10" y="362">    │ ├── title-case@2.1.1 </tspan>
+<tspan x="10" y="378">    │ ├── upper-case@1.1.3 </tspan>
+<tspan x="10" y="394">    │ └── upper-case-first@1.1.2 </tspan>
+<tspan x="10" y="410">    ├─┬ clean-css@3.4.25 </tspan>
+<tspan x="10" y="426">    │ ├── commander@2.8.1 </tspan>
+<tspan x="10" y="442">    │ └─┬ source-map@0.4.4 </tspan>
+<tspan x="10" y="458">    │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="474">    ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="490">    │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="506">    ├── he@1.1.1 </tspan>
+<tspan x="10" y="522">    ├─┬ ncname@1.0.0 </tspan>
+<tspan x="10" y="538">    │ └── xml-char-classes@1.0.0 </tspan>
+<tspan x="10" y="554">    ├── relateurl@0.2.7 </tspan>
+<tspan x="10" y="570">    └─┬ uglify-js@2.6.4 </tspan>
+<tspan x="10" y="586">      ├── async@0.2.10 </tspan>
+<tspan x="10" y="602">      ├── source-map@0.5.6 </tspan>
+<tspan x="10" y="618">      ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="634">      └─┬ yargs@3.10.0 </tspan>
+<tspan x="10" y="650">        ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="666">        ├─┬ cliui@2.1.0 </tspan>
+<tspan x="10" y="682">        │ ├─┬ center-align@0.1.3 </tspan>
+<tspan x="10" y="698">        │ │ ├─┬ align-text@0.1.4 </tspan>
+<tspan x="10" y="714">        │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="730">        │ │ │ │ └── is-buffer@1.1.5 </tspan>
+<tspan x="10" y="746">        │ │ │ ├── longest@1.0.1 </tspan>
+<tspan x="10" y="762">        │ │ │ └── repeat-string@1.6.1 </tspan>
+<tspan x="10" y="778">        │ │ └── lazy-cache@1.0.4 </tspan>
+<tspan x="10" y="794">        │ ├── right-align@0.1.3 </tspan>
+<tspan x="10" y="810">        │ └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="826">        ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="842">        └── window-size@0.1.0</tspan>
+</text>
+</svg>
