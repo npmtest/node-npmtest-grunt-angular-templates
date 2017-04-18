@@ -1,7 +1,10 @@
-# test coverage for  [grunt-angular-templates (v1.1.0)](https://github.com/ericclemmons/grunt-angular-templates)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-angular-templates.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-angular-templates) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-angular-templates.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-angular-templates)
+# npmtest-grunt-angular-templates
+
+#### test coverage for  [grunt-angular-templates (v1.1.0)](https://github.com/ericclemmons/grunt-angular-templates)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-angular-templates.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-angular-templates) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-angular-templates.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-angular-templates)
+
 #### Grunt build task to concatenate & register your AngularJS templates in the $templateCache
 
-[![NPM](https://nodei.co/npm/grunt-angular-templates.png?downloads=true)](https://www.npmjs.com/package/grunt-angular-templates)
+[![NPM](https://nodei.co/npm/grunt-angular-templates.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-angular-templates)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-grunt-angular-templates/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-angular-templates/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-angular-templates/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-grunt-angular-templates%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-angular-templates/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-grunt-angular-templates%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-angular-templates/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/test-report.html](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-grunt-angular-templates/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-angular-templates/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-angular-templates/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-angular-templates/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-grunt-angular-templates/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +36,7 @@
 
 {
     "author": {
-        "name": "Eric Clemmons",
-        "email": "eric@smarterspam.com"
+        "name": "Eric Clemmons"
     },
     "bugs": {
         "url": "https://github.com/ericclemmons/grunt-angular-templates/issues"
@@ -75,25 +83,20 @@
     "main": "Gruntfile.js",
     "maintainers": [
         {
-            "name": "aaani",
-            "email": "anidps@gmail.com"
+            "name": "aaani"
         },
         {
-            "name": "ericclemmons",
-            "email": "eric@smarterspam.com"
+            "name": "ericclemmons"
         },
         {
-            "name": "hvdb",
-            "email": "henkvandenbrink@gmail.com"
+            "name": "hvdb"
         },
         {
-            "name": "underscorebrody",
-            "email": "ebrody@gmail.com"
+            "name": "underscorebrody"
         }
     ],
     "name": "grunt-angular-templates",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/ericclemmons/grunt-angular-templates.git"
